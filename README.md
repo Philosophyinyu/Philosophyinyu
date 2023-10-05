@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Philosophyinyu
 - 👀 I’m interested in maker,chess and philosophy
 - 🌱 I’m currently learning c++ and python
-  'I'm a NOOB'
+- 'I'm a NOOB'
 
 <!---
 Philosophyinyu/Philosophyinyu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
